@@ -3,8 +3,13 @@ content_type: resource
 description: This resource contains notes based on special case of framework about
   planning strategies and information infrastructure in the redevelopment of U.S.
   inner cities.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-522-research-seminar-on-urban-information-systems-fall-2005/f2db621cca5c223e870e380e4bce62f1_notes_4.pdf
+file: /media/courses/11-522-research-seminar-on-urban-information-systems-fall-2005/f2db621cca5c223e870e380e4bce62f1_notes_4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: notes_4.pdf
 uid: f2db621c-ca5c-223e-870e-380e4bce62f1

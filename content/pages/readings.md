@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 8deeef72-0a7a-f120-3bcd-e1cdec0e73fa
 ---
@@ -80,7 +83,7 @@ The Urban Institute proposal that has also been funded by the UMI program: "Deci
   
 Singh, Raj. "Collaborative Urban Information Systems: A Web Services Approach." Chapter 1 of _Dissertation_. MIT, 2004.  
   
-[Google™ Earth](http://earth.google.com/) and [Phil Bradley's Web site](https://philbradley.typepad.com/phil_bradleys_weblog/) discussing the user-publishing features of GoogleTM Earth.
+[Google™ Earth](http://earth.google.com/) and [Phil Bradley's Web site](https://philbradley.typepad.com/phil_bradleys_weblog/) discussing the user-publishing features of Google{{< sup "TM" >}} Earth.
 {{< tdclose >}}
 
 {{< trclose >}}

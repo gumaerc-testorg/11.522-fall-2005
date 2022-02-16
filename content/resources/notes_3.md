@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains notes based on planning strategies and information
   infrastructure along with discussion questions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-522-research-seminar-on-urban-information-systems-fall-2005/db66a7e9ba09867bcb6bc35b58a20bb7_notes_3.pdf
+file: /media/courses/11-522-research-seminar-on-urban-information-systems-fall-2005/db66a7e9ba09867bcb6bc35b58a20bb7_notes_3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: notes_3.pdf
 uid: db66a7e9-ba09-867b-cb6b-c35b58a20bb7

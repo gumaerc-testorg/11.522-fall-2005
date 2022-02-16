@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains notes based on urban growth along with discussion
   questions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-522-research-seminar-on-urban-information-systems-fall-2005/1e7c94c4bda832bfd28ebc1ade8936d6_notes_6.pdf
+file: /media/courses/11-522-research-seminar-on-urban-information-systems-fall-2005/1e7c94c4bda832bfd28ebc1ade8936d6_notes_6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: notes_6.pdf
 uid: 1e7c94c4-bda8-32bf-d28e-bc1ade8936d6

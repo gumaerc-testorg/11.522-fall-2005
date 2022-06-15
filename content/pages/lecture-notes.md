@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The Lecture notes section presents lecture files for each section respective
+  to the corresponding topics for the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -36,7 +38,7 @@ Introduction and Organizing Class Presentations
 2
 {{< tdclose >}}
 {{< tdopen >}}
-City Knowledge: An Emergent Information Infrastructure for Sustainable Urban Maintenance, Management and Planning - Joe Ferreira and Fabio Carrera ([PDF]({{< baseurl >}}/resources/notes_2))
+City Knowledge: An Emergent Information Infrastructure for Sustainable Urban Maintenance, Management and Planning - Joe Ferreira and Fabio Carrera ({{% resource_link 4a4f531a-adb0-fb4f-07d3-a964e1dcc349 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +47,7 @@ City Knowledge: An Emergent Information Infrastructure for Sustainable Urban Mai
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Sharing Data and Empowering Communities - Fabio Carrera and Joe Ferreira ([PDF]({{< baseurl >}}/resources/notes_3))
+Sharing Data and Empowering Communities - Fabio Carrera and Joe Ferreira ({{% resource_link db66a7e9-ba09-867b-cb6b-c35b58a20bb7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +56,7 @@ Sharing Data and Empowering Communities - Fabio Carrera and Joe Ferreira ([PDF](
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Information Infrastructure and the Redevelopment of Inner Cities - Mi Diao ([PDF]({{< baseurl >}}/resources/notes_4))
+Information Infrastructure and the Redevelopment of Inner Cities - Mi Diao ({{% resource_link f2db621c-ca5c-223e-870e-380e4bce62f1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +74,7 @@ Application of Cartograms in Measuring Sprawl - Xiongjiu Liao
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Land Market Monitoring for Growth Management - Weifeng Li ([PDF]({{< baseurl >}}/resources/notes_6))
+Land Market Monitoring for Growth Management - Weifeng Li ({{% resource_link 1e7c94c4-bda8-32bf-d28e-bc1ade8936d6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +83,7 @@ Land Market Monitoring for Growth Management - Weifeng Li ([PDF]({{< baseurl >}}
 7
 {{< tdclose >}}
 {{< tdopen >}}
-The Role of GIS in Delivering Municipal Public Services - Fazilet Tanrikulu ([PDF]({{< baseurl >}}/resources/notes_7))
+The Role of GIS in Delivering Municipal Public Services - Fazilet Tanrikulu ({{% resource_link df76e63b-c451-09f4-87d2-e2acd17e8ece "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

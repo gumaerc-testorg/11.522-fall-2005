@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus section provides information on course philosophy, course
+  description and content, format, prerequisites and sequencing.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -33,7 +35,7 @@ During the semester, there will be occasional UIS seminar talks by outside speak
 Format
 ------
 
-Each week, there will be one session lasting up to two hours (during the scheduled Tuesday afternoon time) for discussion of research areas, class projects, and selected articles. Additional lab hours will be arranged as needed to facilitate access to equipment and data that students may need for their projects. Each student will be responsible for (a) leading at least one class discussion of published papers in the current literature concerning a selected topic of interest, (b) undertaking an individual or group project involving a written and oral presentation, and (c) participating in seminar discussions and out-of-class email exchanges. A schedule of topics and presenters is given in the [calendar]({{< baseurl >}}/pages/calendar) section. Individual class projects typically lead to a thesis proposal, empirical study, comparative analysis, computer-based modeling exercise, and/or the demonstration of a software prototype.
+Each week, there will be one session lasting up to two hours (during the scheduled Tuesday afternoon time) for discussion of research areas, class projects, and selected articles. Additional lab hours will be arranged as needed to facilitate access to equipment and data that students may need for their projects. Each student will be responsible for (a) leading at least one class discussion of published papers in the current literature concerning a selected topic of interest, (b) undertaking an individual or group project involving a written and oral presentation, and (c) participating in seminar discussions and out-of-class email exchanges. A schedule of topics and presenters is given in the {{% resource_link 622fb827-9c3b-d1b4-d98d-0828ccd104bd "calendar" %}} section. Individual class projects typically lead to a thesis proposal, empirical study, comparative analysis, computer-based modeling exercise, and/or the demonstration of a software prototype.
 
 Prerequisites and Sequencing
 ----------------------------

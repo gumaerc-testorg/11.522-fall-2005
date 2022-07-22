@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The calendar section provides information on the topics corresponding
+  to the sessions for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 622fb827-9c3b-d1b4-d98d-0828ccd104bd
 ---

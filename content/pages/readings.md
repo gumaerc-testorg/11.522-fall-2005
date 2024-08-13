@@ -30,9 +30,9 @@ City Knowledge: An Emergent Information Infrastructure for Sustainable Urban Mai
 
 In preparation for this discussion, we suggest that you read or skim the following:
 
-For a full explanation of the concept of City Knowledge, you should skim Fabio Carrera's [PhD Dissertation](http://users.wpi.edu/%7Ecarrera/MIT/dissertation.html) especially Part I and Part V and you should ready more carefully Part IV.   
-Part I ([PDF](http://users.wpi.edu/%7Ecarrera/MIT/Dissertation/Part%20I.pdf))   
-Part V ([PDF](http://users.wpi.edu/%7Ecarrera/MIT/Dissertation/Part%20V.pdf))   
+For a full explanation of the concept of City Knowledge, you should skim Fabio Carrera's [PhD Dissertation](http://users.wpi.edu/%7Ecarrera/MIT/dissertation.html) especially Part I and Part V and you should ready more carefully Part IV.    
+Part I ([PDF](http://users.wpi.edu/%7Ecarrera/MIT/Dissertation/Part%20I.pdf))    
+Part V ([PDF](http://users.wpi.edu/%7Ecarrera/MIT/Dissertation/Part%20V.pdf))    
 Part IV ([PDF](http://users.wpi.edu/%7Ecarrera/MIT/Dissertation/Part%20IV.pdf))
 
 When it comes to implementing government policies, a school of thought that has been put forward by DUSP faculty, suggests that we focus on the so-called "Five tools of Government Action." A full description of these tools can be found in the book [*Preserving the Built Heritage*](https://www.amazon.com/Preserving-Built-Heritage-Tools-Implementation/dp/0874518318) edited by our own Mark Schuster and John DeMonchaux. There is a summary of the concepts in the introduction chapter. A shorter version is contained in Policy and Planning with Purpose. (PDF)
@@ -41,9 +41,9 @@ The concept of "Emergence" features prominently in the City Knowledge approach. 
 
 Prof. Ferreira describes middleware applications in his article entitled "Information Technologies that Change Relationships between Low-Income Communities and the Public and Non-profit Agencies that Serve Them" as well as in the MIT/MAPC proposal "Intelligent Middleware for Understanding Neighborhood Markets" a pilot project of the Brookings Institution [Urban Markets Initiative](https://brookings.edu/author/the-urban-markets-initiative-brookings-institution-metropolitan-policy-program/?type=all&paged=1).
 
-For recent accounts of the Planning Support Systems that are already in use around the world, you can take a look at Klosterman's recent (2005) guest editorial in Environment and Planning B, as well as to Maguire and Longley's paper on "The emergence of geoportals and their role in spatial data infrastructures." An older, but interesting paper predating City Knowledge is Rubenstein-Montano's Survey of knowledge-based information systems for urban planning.   
-Klosterman's Editorial ([PDF](http://www.envplan.com/epb/editorials/b3204ed.pdf))   
-Maguire and Longley's Paper   
+For recent accounts of the Planning Support Systems that are already in use around the world, you can take a look at Klosterman's recent (2005) guest editorial in Environment and Planning B, as well as to Maguire and Longley's paper on "The emergence of geoportals and their role in spatial data infrastructures." An older, but interesting paper predating City Knowledge is Rubenstein-Montano's Survey of knowledge-based information systems for urban planning.    
+[Klosterman's Editorial](https://journals.sagepub.com/doi/abs/10.1068/b3204ed)  
+Maguire and Longley's Paper    
 Rubenstein-Montano, B. "A survey of knowledge-based information systems for urban planning: moving towards knowledge management." *Computers, Environment and Urban Systems* 24 (2000): 155-172.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -86,7 +86,7 @@ An article from "[U.S.A. Today](http://www.usatoday.com/money/companies/2004-08-
 
 *Literature on the Information Infrastructure that may Help in the Redevelopment of Inner Cities*
 
-A good summary of neighborhood indicator systems by G. Thomas Kingsley from "[NNIP: Neighborhood Indicators: Take Advantage of the New Potential](http://www.urban.org/research/publication/neighborhood-indicators-taking-advantage-new-potential)."   
+A good summary of neighborhood indicator systems by G. Thomas Kingsley from "[NNIP: Neighborhood Indicators: Take Advantage of the New Potential](http://www.urban.org/research/publication/neighborhood-indicators-taking-advantage-new-potential)."    
 Please skim the Boston indicators report 2004 by TBF (the Boston Foundation), which documents its biennial effort in [Boston Indicators Project](https://www.bostonindicators.org/?q&sortBy=date&sortOrder=desc&page=1).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -115,9 +115,9 @@ General Ideas of the Growth Management Options and their Impacts (Just Skim them
 
 Landis, J., L. Deng, and M. Reilly. "[Growth Management Revisited: A Reassessment of its Efficacy, Price Effects and Impacts on Metropolitan Growth Patterns](http://escholarship.org/uc/item/26r5p50j#page-1)." Working Paper 2002-02. Berkeley, CA: University of California Institute of Urban and Regional Development, 2002.
 
-Growth Management Tools: A Summary for Planning Boards in Massachusetts. ([PDF](http://www.mass.gov/eea/docs/dcr/watersupply/watershed/growthmanagementtools.pdf))
+Growth Management Tools: A Summary for Planning Boards in Massachusetts. ([PDF](https://www.mass.gov/doc/growth-management-tools-a-summary-for-planning-boards-in-massachusetts/download))
 
-*Difference Approaches of Land Market Monitoring Practice*   
+*Difference Approaches of Land Market Monitoring Practice*   
 Inventory Approach:
 
 Knaap, Gerrit J. "Monitoring Land and Housing Markets: An Essential Tool for Smart Growth." Washington, DC: National Center for Housing and the Environment, 2004. ([PDF](http://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CCUQFjAC&url=http%3A%2F%2Fwww.ibrarian.net%2Fnavon%2Fpaper%2FM_ONITORING_LAND_AND_HOUSING_MARKETS__AN_ESSENTIA.pdf%3Fpaperid%3D4684110&ei=utrMU4-wFtCVuASb54LoCw&usg=AFQjCNHwKszoYkkO_6wq41hKCqYCDnWJEQ&bvm=bv.71198958,d.c2E&cad=rja))

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains notes based on planning strategies and information
   infrastructure along with discussion questions.
-file: /ol-ocw-studio-app/courses/11-522-research-seminar-on-urban-information-systems-fall-2005/db66a7e9ba09867bcb6bc35b58a20bb7_notes_3.pdf
+file: /courses/11-522-research-seminar-on-urban-information-systems-fall-2005/db66a7e9ba09867bcb6bc35b58a20bb7_notes_3.pdf
 file_size: 116577
 file_type: application/pdf
 learning_resource_types:
